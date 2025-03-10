@@ -6,7 +6,7 @@ This is a simple console-based Snake game implemented in `C++`. The player contr
 
 ## Features
 
-- Console-based graphics using ASCII characters.
+- Console-based graphics using `ASCII` characters.
 
 - Responsive controls with real-time movement.
 
@@ -51,20 +51,20 @@ This is a simple console-based Snake game implemented in `C++`. The player contr
 ## Installation & Execution
 1. Ensure you have a `C++` compiler installed (e.g., `MinGW` for Windows or `g++` for Linux/macOS).
 
-2. Copy the source code into a file, e.g., `snake.cpp`.
+2. Copy the source code into a file, e.g., `main.cpp`.
 
 3. Open a terminal or command prompt and navigate to the file location.
 
 4. Compile the program:
 
 ```
-g++ snake.cpp -o snake`
+g++ main.cpp -o main`
 ```
 
 5. Run the game:
 
 ```
-./snake
+./main
 ```
 
 ## Dependencies
